@@ -17,7 +17,9 @@ TicTacToe/Release/
 #[Rr]elease/
 SFML2/Release/
 #[Rr]eleases/
-x64/
+#x64/
+#Release/
+snake/x64
 x86/
 bld/
 [Bb]in/
